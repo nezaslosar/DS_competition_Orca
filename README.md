@@ -11,7 +11,7 @@ Responding to customer emails is an important part of any service. Often emails 
 
 Keywords: natural language processing, email categorization, customer support, supervised learning
 
-### Methods ###
+### Way to the goal ###
 
 Find criterias in literature, analysis with R, develope codes in Python and Orange. Voila!
 
