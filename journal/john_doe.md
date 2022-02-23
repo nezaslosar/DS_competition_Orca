@@ -1,4 +1,4 @@
-# John Doe's Data Science Project Competition journal
+# Miha Likar's Data Science Project Competition journal
 
 ## February 2020 (8h)
 
