@@ -1,4 +1,4 @@
-# Miha Likar's Data Science Project Competition journal
+# Sabina Pajmon's Data Science Project Competition journal
 
 ## February 2020 (8h)
 
