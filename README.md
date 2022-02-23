@@ -1,8 +1,8 @@
 # README #
 
-## About this branch /develop ##
+## About this branch /master ##
 
-This is the repository, where we have everything, regarding developing and drafts.
+This is the final branch, we don't change it except journals. Editing is made in branch (/develop).
 
 
 ## Our project - Automated customer email classification (In516ht with Zavarovalnica Triglav) ##
@@ -11,15 +11,30 @@ Responding to customer emails is an important part of any service. Often emails 
 
 Keywords: natural language processing, email categorization, customer support, supervised learning
 
-### Way to the goal ###
+## Way to the goal ##
 
-Find criterias in literature, analysis with R, develope codes in Python and Orange. Voila!
+### Introduction ###
+
+Our motivation.
+
+### Methods ###
+
+Read literature, get data, do R and Python (maybe Orange).
+
+### Results ###
+
+Present results.
+
+### Discusion ###
+
+Apply results.
 
 ## Folder structure ##
 
 There are several subfolders in the repository:
 
-* the source folder (`/src`), with subfolders: članki and codes,
+* the source folder (`/src`),
+* the journal folder (`/journal`),
 * the interim report folder (`/interim_report`),
 * the final report folder (`/final_report`),
 * and the presentation folder (`/presentation`).
@@ -28,14 +43,18 @@ There are several subfolders in the repository:
 
 All our source codes and articles should go into this folder. How you structure things (e.g. via subfolders) inside there is completely up to you.
 
+### The journal folder ###
+
+With our activities in journals.
+
 ### The interim report folder ###
 
-With draft of it.
+Final is pulled from develop branch. Due to 4. 3. 2022.
 
 ### The final report folder ###
 
-Here we will prepare draft and dan pull it to master.
+Final is pulled to master branch. Due end of May 2022.
 
 ### The presentation folder ###
 
-Put the draft document containing your final presentation into this folder.
+Final presentation is upload here. Presentations will be in the first week of June 2022.
