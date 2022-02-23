@@ -2,7 +2,9 @@
 
 ## About this branch /develop ##
 
-This is the repository, where we have everything, regarding developing and drafts.
+This is the repository, where we have everything, regarding developing and drafts. Our advisor is doc. dr. Slavko Žitnik ([slavko.zitnik@fri.uni-lj.si](mailto:slavko.zitnik@fri.uni-lj.si)).
+
+For editing md files, we can and shoul help with [this page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
 ## Our project - Automated customer email classification (In516ht with Zavarovalnica Triglav) ##
