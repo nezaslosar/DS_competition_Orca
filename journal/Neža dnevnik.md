@@ -1,10 +1,8 @@
 # Neža Marija Slosar's Data Science Project Competition journal
 
-## February 2022 (8h)
+## February 2022 (2h)
 
-* 26. (2h): Watched XGBoost tutorials. I think XGBoost will be the best machine learning algorithm for our project.
-* 27. (2h): XGBoost implementation. I am using XGBoost from the xgboost python library.
-* 28. (4h): Data preparation for XGBoost and test runs. Before running initial XGBoost test I had to prepare data in an appropriate format. First test runs look promising!
+* 23. (2h): Prepare github. 
 
 ## March 2022 (2h)
 
