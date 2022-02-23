@@ -83,4 +83,7 @@ The experimental results indicate that the proposed model achieves very high acc
 
 > Nek hud algoritem, kaže zelo dobro klasifikacijsko točnost - Iterative Dichotomiser 3 (ID3); morda za uporabiti.
 > Vizualizacija ključnih besed v besednem oblaku (prikaz), ki jih mora potem razvrstiti v spam.
-> !([Visual representation of important words for spam email](https://user-images.githubusercontent.com/100276495/155417159-fd513dc0-934a-4ee0-bc17-7782bccb8514.png)
+> ![Visual representation of important words for spam email](https://user-images.githubusercontent.com/100276495/155417555-b1863132-e0d6-471b-8a10-8ea098e822a5.png)
+
+
+
