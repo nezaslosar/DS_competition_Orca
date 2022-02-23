@@ -2,7 +2,7 @@
 
 ## February 2022 (2h)
 
-* 23. (2h): Prepare github. 
+* 23. (2h): Prepare github enviroment. 
 
 ## March 2022 (2h)
 
