@@ -1,9 +1,10 @@
 # Neža Marija Slosar's Data Science Project Competition journal
 
-## February 2022 (3h)
+## February 2022 (3,5h)
 
 * 23. (2h): Prepare github enviroment. 
-* 23. (1h): Scrolling through articles and copy intersting ones in src directory (branch develop). 
+* 23. (1h): Scrolling through articles and copy intersting ones in src directory (branch develop).
+* 24. (0,5 h): Iskanje uporabnih stvari na YouTubu - dodano v src directory (develop). 
 
 ## March 2022 (2h)
 
