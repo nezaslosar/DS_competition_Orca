@@ -90,38 +90,53 @@ The experimental results indicate that the proposed model achieves very high acc
 > Povezave niso direktne do člankov. 
 1. [Natural Language Processing](https://surface.syr.edu/cgi/viewcontent.cgi?article=1043&context=istpub); 2001
 
-INTRODUCTION
-Natural Language Processing (NLP) is the computerized approach to analyzing text that
+Introduction: Natural Language Processing (NLP) is the computerized approach to analyzing text that
 is based on both a set of theories and a set of technologies. And, being a very active area
 of research and development, there is not a single agreed-upon definition that would
 satisfy everyone, but there are some aspects, which would be part of any knowledgeable
-person’s definition. The definition I offer is: 
-
-Natural Language Processing is a theoretically motivated range of
+person’s definition.  
+Definition: Natural Language Processing is a theoretically motivated range of
 computational techniques for analyzing and representing naturally occurring texts
 at one or more levels of linguistic analysis for the purpose of achieving human-like
-language processing for a range of tasks or applications. 
-
-Goal
-The goal of NLP as stated above is “to accomplish human-like language processing”.
+language processing for a range of tasks or applications.  
+Goal: The goal of NLP as stated above is “to accomplish human-like language processing”.
 The choice of the word ‘processing’ is very deliberate, and should not be replaced with
 ‘understanding’. For although the field of NLP was originally referred to as Natural
 Language Understanding (NLU) in the early days of AI, it is well agreed today that while
 the goal of NLP is true NLU, that goal has not yet been accomplished. A full NLU
 System would be able to:
-1. Paraphrase an input text
-2. Translate the text into another language
-3. Answer questions about the contents of the text
-4. Draw inferences from the text
+- Paraphrase an input text
+- Translate the text into another language
+- Answer questions about the contents of the text
+- Draw inferences from the text
 
-1. [Natural Language Processing](https://link.springer.com/chapter/10.1007/978-81-322-3972-7_19); april 2020
+2. [Natural Language Processing](https://link.springer.com/chapter/10.1007/978-81-322-3972-7_19); april 2020
 
-The abundant volume of natural language text in the connected world, though having a large content of knowledge, but it is becoming increasingly difficult to disseminate it by a human to discover the knowledge/wisdom in it, specifically within any given time limits. The automated NLP is aimed to do this job effectively and with accuracy, like a human does it (for a limited of amount text). This chapter presents the challenges of NLP, progress so far made in this field, NLP applications, components of NLP, and grammar of English language—the way machine requires it. In addition, covers the specific areas like probabilistic parsing, ambiguities and their resolution, information extraction, discourse analysis, NL question-answering, commonsense interfaces, commonsense thinking and reasoning, causal-diversity, and various tools for NLP. Finally, the chapter summary, and a set of relevant exercises are presented.
+Abstract: The abundant volume of natural language text in the connected world, though having a large content of knowledge, but it is becoming increasingly difficult to disseminate it by a human to discover the knowledge/wisdom in it, specifically within any given time limits. The automated NLP is aimed to do this job effectively and with accuracy, like a human does it (for a limited of amount text). This chapter presents the challenges of NLP, progress so far made in this field, NLP applications, components of NLP, and grammar of English language—the way machine requires it. In addition, covers the specific areas like probabilistic parsing, ambiguities and their resolution, information extraction, discourse analysis, NL question-answering, commonsense interfaces, commonsense thinking and reasoning, causal-diversity, and various tools for NLP. Finally, the chapter summary, and a set of relevant exercises are presented.
 
 ![image](https://user-images.githubusercontent.com/100276408/155878297-8a390e6a-01b2-4508-8551-1c786e6de506.png)
 
 > Očitno gre za podobne zadeve, kot smo se jih učili pri predmetu Uvod v umetno inteligenco 1.
 
+3. [Natural language processing: an introduction](https://academic.oup.com/jamia/article/18/5/544/829676?ref=https%3a%2f%2fcodemonkey.link&login=false); september 2011
 
+Objectives: To provide an overview and tutorial of natural language processing (NLP) and modern NLP-system design.  
+Target audience: This tutorial targets the medical informatics generalist who has limited acquaintance with the principles behind NLP and/or limited knowledge of the current state of the art.
 
+> Zanimivo, ker citira Chomskyja,
 
+Chomsky's 1956 theoretical analysis of language grammars3 provided an estimate of the problem's difficulty, influencing the creation (1963) of Backus-Naur Form (BNF) notation.4 BNF is used to specify a ‘context-free grammar’5 (CFG), and is commonly used to represent programming-language syntax. A language's BNF specification is a set of derivation rules that collectively validate program code syntactically. (‘Rules’ here are absolute constraints, not expert systems' heuristics.) Chomsky also identified still more restrictive ‘regular’ grammars, the basis of the regular expressions6 used to specify text-search patterns. Regular expression syntax, defined by Kleene7 (1956), was first supported by Ken Thompson's grep utility8 on UNIX.
+
+> in Prolog (ampak ne Bratkotovega?):
+
+The Prolog language11 was originally invented (1970) for NLP applications. Its syntax is especially suited for writing grammars, although, in the easiest implementation mode (top-down parsing), rules must be phrased differently (ie, right-recursively12) from those intended for a yacc-style parser. Top-down parsers are easier to implement than bottom-up parsers (they don't need generators), but are much slower.
+
+> V naslednjih dveh člankih ni več nič preveč novega.
+
+4. [Advances in natural language processing](https://www.science.org/doi/abs/10.1126/science.aaa8685); julij 2015
+
+Natural language processing employs computational techniques for the purpose of learning, understanding, and producing human language content. Early computational approaches to language research focused on automating the analysis of the linguistic structure of language and developing basic technologies such as machine translation, speech recognition, and speech synthesis. Today’s researchers refine and make use of such tools in real-world applications, creating spoken dialogue systems and speech-to-speech translation engines, mining social media for information about health or finance, and identifying sentiment and emotion toward products and services. We describe successes and challenges in this rapidly advancing area.
+
+5. [Natural language processing](https://dl.acm.org/doi/abs/10.5555/1074100.1074630); januar 2003
+
+Natural language processing (NLP) refers to computer systems that analyze, attempt to understand, or produce one or more human languages, such as English, Japanese, Italian, or Russian. The input might be text, spoken language, or keyboard input. The task might be to translate to another language, to comprehend and represent the content of text, to build a database or generate summaries, or to maintain a dialogue with a user as part of an interface for database/information retrieval (q.v.). This article addresses issues in natural language comprehension and generation from text or keyboard input. Similar techniques can be used for spoken language by adding a system for speech recognition (see SPEECH RECOGNITION AND SYNTHESIS).
