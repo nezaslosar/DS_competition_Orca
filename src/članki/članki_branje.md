@@ -140,3 +140,8 @@ Abstract: Natural language processing employs computational techniques for the p
 5. [Natural language processing](https://dl.acm.org/doi/abs/10.5555/1074100.1074630); januar 2003
 
 Abstract: Natural language processing (NLP) refers to computer systems that analyze, attempt to understand, or produce one or more human languages, such as English, Japanese, Italian, or Russian. The input might be text, spoken language, or keyboard input. The task might be to translate to another language, to comprehend and represent the content of text, to build a database or generate summaries, or to maintain a dialogue with a user as part of an interface for database/information retrieval (q.v.). This article addresses issues in natural language comprehension and generation from text or keyboard input. Similar techniques can be used for spoken language by adding a system for speech recognition (see SPEECH RECOGNITION AND SYNTHESIS).
+
+6. uporabno poglavje 2: [Email Classification with 
+Machine Learning and Word 
+Embeddings for Improved 
+Customer Support](http://www.diva-portal.org/smash/get/diva2:1189491/FULLTEXT01.pdf?fbclid=IwAR0_7buh3AaIcTxFwFDq5JCDwAyp1CysbhCIwdNGYHqyk85iVxykeLunOnM); januar 2003
