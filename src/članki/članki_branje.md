@@ -85,5 +85,43 @@ The experimental results indicate that the proposed model achieves very high acc
 > Vizualizacija ključnih besed v besednem oblaku (prikaz), ki jih mora potem razvrstiti v spam.
 > ![Visual representation of important words for spam email](https://user-images.githubusercontent.com/100276495/155417555-b1863132-e0d6-471b-8a10-8ea098e822a5.png)
 
+# Sabina #
+> Medtem ko Neža navaja nekaj virov o e-mail kategorizaciji in o algoritmih v strojnem učenju, sem se jaz osredotočila na osnove NLP (natural language processing) - povejte, če je ok!
+> Povezave niso direktne do člankov. 
+1. [Natural Language Processing](https://surface.syr.edu/cgi/viewcontent.cgi?article=1043&context=istpub); 2001
+
+INTRODUCTION
+Natural Language Processing (NLP) is the computerized approach to analyzing text that
+is based on both a set of theories and a set of technologies. And, being a very active area
+of research and development, there is not a single agreed-upon definition that would
+satisfy everyone, but there are some aspects, which would be part of any knowledgeable
+person’s definition. The definition I offer is: 
+
+Natural Language Processing is a theoretically motivated range of
+computational techniques for analyzing and representing naturally occurring texts
+at one or more levels of linguistic analysis for the purpose of achieving human-like
+language processing for a range of tasks or applications. 
+
+Goal
+The goal of NLP as stated above is “to accomplish human-like language processing”.
+The choice of the word ‘processing’ is very deliberate, and should not be replaced with
+‘understanding’. For although the field of NLP was originally referred to as Natural
+Language Understanding (NLU) in the early days of AI, it is well agreed today that while
+the goal of NLP is true NLU, that goal has not yet been accomplished. A full NLU
+System would be able to:
+1. Paraphrase an input text
+2. Translate the text into another language
+3. Answer questions about the contents of the text
+4. Draw inferences from the text
+
+1. [Natural Language Processing](https://link.springer.com/chapter/10.1007/978-81-322-3972-7_19); april 2020
+
+The abundant volume of natural language text in the connected world, though having a large content of knowledge, but it is becoming increasingly difficult to disseminate it by a human to discover the knowledge/wisdom in it, specifically within any given time limits. The automated NLP is aimed to do this job effectively and with accuracy, like a human does it (for a limited of amount text). This chapter presents the challenges of NLP, progress so far made in this field, NLP applications, components of NLP, and grammar of English language—the way machine requires it. In addition, covers the specific areas like probabilistic parsing, ambiguities and their resolution, information extraction, discourse analysis, NL question-answering, commonsense interfaces, commonsense thinking and reasoning, causal-diversity, and various tools for NLP. Finally, the chapter summary, and a set of relevant exercises are presented.
+
+![image](https://user-images.githubusercontent.com/100276408/155878297-8a390e6a-01b2-4508-8551-1c786e6de506.png)
+
+> Očitno gre za podobne zadeve, kot smo se jih učili pri predmetu Uvod v umetno inteligenco 1.
+
+
 
 
