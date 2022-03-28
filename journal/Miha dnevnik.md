@@ -6,7 +6,7 @@
 
 ## March 2020 (2h)
 
-* 28. (2h): Pregled podatkov, ki smo jih prejeli s strani zavarovalnice, pregled mentorjevega GitHuba, iskanje literature.
+* 28. (2h): Pregled podatkov, ki smo jih prejeli s strani zavarovalnice, pregled mentorjevega GitHuba, iskanje literature, nameščanje NLTK libraryja.
 
 ## April 2020 ([total hours for March])
 
