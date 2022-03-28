@@ -4,7 +4,7 @@
 
 * 26. (1h): Iščem nekaj uvodnih tutorialov za text classicitation.
 
-## March 2022 (2h)
+## March 2022 (4h)
 
 * 26. (1h): Pregled mentorjevega GitHuba (text classification).
 * 28. (3h): Pregled podatkov, ki smo jih prejeli s strani zavarovalnice, pregled mentorjevega GitHuba, iskanje literature, nameščanje NLTK libraryja, NLTK tutorial (freecodecamp).
