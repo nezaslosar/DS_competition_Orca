@@ -2,10 +2,11 @@
 
 ## February 2022 (1h)
 
-* 26. (1h): Iščem nekaj uvodnih tutorial v text classicitation.
+* 26. (1h): Iščem nekaj uvodnih tutorialov za text classicitation.
 
 ## March 2022 (2h)
 
+* 26. (1h): Pregled mentorjevega GitHuba (text classification).
 * 28. (2h): Pregled podatkov, ki smo jih prejeli s strani zavarovalnice, pregled mentorjevega GitHuba, iskanje literature, nameščanje NLTK libraryja.
 
 ## April 2022 ([total hours April])
