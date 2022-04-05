@@ -12,4 +12,4 @@ in še druge stvari. Nisem gledala v celoti.
 
 3. [What are Unigrams, Bigrams & N-Grams](https://www.youtube.com/watch?v=MZIm_5NN3MY)
 
-Threegrams and fourgrams work best for spam filtering (2:10).
+Threegrams and fourgrams work best for spam filtering (2:10). Pomoje lahko morda probamo narediti analizo glede na kategorije, kateri grami najbolj ustrezajo kateri kategoriji?
