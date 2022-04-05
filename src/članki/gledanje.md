@@ -9,3 +9,7 @@ Naivni Bayes - uporaben za aplicirat v kakšni kombinaciji -- prediktivno proces
 
 Celoten postopek, na voljo so: [Demo](https://esc-campusx.herokuapp.com/), [Data set](https://www.kaggle.com/uciml/sms-spam-collection-dataset), [koda](https://github.com/campusx-official/sms-spam-classifier)
 in še druge stvari. Nisem gledala v celoti.
+
+3. [What are Unigrams, Bigrams & N-Grams](https://www.youtube.com/watch?v=MZIm_5NN3MY)
+
+Threegrams and fourgrams work best for spam filtering (2:10).
