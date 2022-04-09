@@ -18,7 +18,7 @@
          -> BERT tutorial (not to comfortable with understanding so far)
          
 * 8. (3h): obdelava podatkov v pandas - vzpostavitev dataframe-a, združevanje podatkov, izpis novega dokumenta s podatki
-* 9. (8h): obdelava podatkov v pandas + nltk - prvi koraki predprocesiranja podatkov - stopwords, izločanje e-mail naslovov, dolgih besed, številk itd.; poskus uporabe sklearna na podatkih (Bayes, Linear Support Vector, Logistic Regression)
+* 9. (8h): obdelava podatkov v pandas + nltk - prvi koraki predprocesiranja podatkov - stopwords, izločanje e-mail naslovov, dolgih besed, številk itd.; prvi poskus uporabe sklearna na podatkih (Bayes, Linear Support Vector, Logistic Regression)
 
 ## May 2022 ([total hours for May])
 
