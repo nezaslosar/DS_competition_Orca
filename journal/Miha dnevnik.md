@@ -22,7 +22,7 @@
 * 10. (5h): pisanje funkcije za osnovno analizo podatkov - dataframe --> slovar --> matplotlib grafi; pregled še vedno prisotnih neuporabnih besed; planiranje za delo ta teden (dodatno čiščenje, pisanje funkcije za čiščenje - do sedaj posamezne funkcije uporabljene posamezno skozi proces učenja)
 * 20. (5h) delo s classla --> pripravljanje dodatnih stopwordsov, čiščenje, pisanje funkcije za obdelavo celotnega data frame-a; poganjanje modela (logistic regressin & bayes) na dodatno očiščenih podatkih
 * 23. (5h) Kmeans - pripravljanje clustrov; posebej na podatkih pred classla obdelavo in po classla obdelavi, primerjava - težave z vizualizacijo (premajhna spominska moč)
-
+* 28. (3h) zbiranje dosedanjih rezultatov, zapiskov itd. za pripravo interim poročila + finalno pisanje poročila
 ## May 2022 ([total hours for May])
 
 ...
