@@ -20,6 +20,8 @@
 * 8. (3h): obdelava podatkov v pandas - vzpostavitev dataframe-a, združevanje podatkov, izpis novega dokumenta s podatki
 * 9. (8h): obdelava podatkov v pandas + nltk - prvi koraki predprocesiranja podatkov - stopwords, izločanje e-mail naslovov, dolgih besed, številk itd.; prvi poskus uporabe sklearna na podatkih (Bayes, Linear Support Vector, Logistic Regression)
 * 10. (5h): pisanje funkcije za osnovno analizo podatkov - dataframe --> slovar --> matplotlib grafi; pregled še vedno prisotnih neuporabnih besed; planiranje za delo ta teden (dodatno čiščenje, pisanje funkcije za čiščenje - do sedaj posamezne funkcije uporabljene posamezno skozi proces učenja)
+* 20. (5h) delo s classla --> pripravljanje dodatnih stopwordsov, čiščenje, pisanje funkcije za obdelavo celotnega data frame-a; poganjanje modela (logistic regressin & bayes) na dodatno očiščenih podatkih
+* 23. (5h) Kmeans - pripravljanje clustrov; posebej na podatkih pred classla obdelavo in po classla obdelavi, primerjava - težave z vizualizacijo (premajhna spominska moč)
 
 ## May 2022 ([total hours for May])
 
