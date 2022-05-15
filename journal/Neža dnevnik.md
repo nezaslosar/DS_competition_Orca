@@ -6,23 +6,20 @@
 * 23. (1h): Scrolling through articles and copy intersting ones in src directory (branch develop).
 * 24. (0,5 h): Iskanje uporabnih stvari na YouTubu - dodano v src directory (develop). 
 
-## March 2022 (2h)
+## March 2022 (12h)
 
-* 3. (2h): XGBoost parameter tunning. I tried to find the combination of parameter values that gives me the best results. I changed the values of the following parameters:
+* 17.--24. (10h): Watching lectures about NLP from our supervisor and his GitHub.
+* 27. (2h): Importing libraries and do first researches and cleanings on data.
 
-  * eta (learning rate),
-  * gamma (minimum loss reduction required to make a further partition on a leaf node of the tree),
-  * max_depth (maximum depth of a tree).
+## April 2022 (11h)
 
-* 4. (2h): ...
-
-## April 2022 ([total hours for March])
-
-...
+* 10. (5h): nltk, stopwords, trying few models.
+* 25--27. (6h): Working for interim report. Finish first part, got some results.
 
 ## May 2022 ([total hours for May])
 
-...
+* 13. (0,5 h): Plan for this month, regarding clustering and than put it our code.
+* 15. (x h): Resolve problems with classla and start clustering.
 
 ## June 2022 ([total hours for June])
 
