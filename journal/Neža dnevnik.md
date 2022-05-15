@@ -8,13 +8,15 @@
 
 ## March 2022 (12h)
 
-* 17. -- 24. (10h): Watching lectures about NLP from our supervisor and his GitHub.
+* 17. to
+* 24. (10h): Watching lectures about NLP from our supervisor and his GitHub.
 * 27. (2h): Importing libraries and do first researches and cleanings on data.
 
 ## April 2022 (11h)
 
 * 10. (5h): nltk, stopwords, trying few models.
-* 25. -- 27. (6h): Working for interim report. Finish first part, got some results.
+* 25. to 
+* 27. (6h): Working for interim report. Finish first part, got some results.
 
 ## May 2022 ([total hours for May])
 
