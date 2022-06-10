@@ -38,6 +38,6 @@
 6.  (3h): Delo na končnem poročilu.
 9.  (3h): Delo na končnem poročilu.
 10. (2h): Delo na končnem poročilu. 
-...
+
 
 ## Total: [77]
