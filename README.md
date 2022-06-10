@@ -25,7 +25,7 @@ There are several subfolders in the repository:
 
 ### The source folder ###
 
-All our final codes each presenting different processing stage is available in this folder. Codes are presented in jupyter notebook files and should be opened with jupyter. All of the relevant outputs of the code are saved within the files, since the data is protected and should not be publicly distributed. 
+All our final codes each presenting different processing stage is available in this folder. Codes are presented in jupyter notebook files and should be opened with jupyter or simply on the github. All of the relevant outputs of the code are saved within the files, since the data is protected and should not be publicly distributed. 
 
 ### The journal folder ###
 
