@@ -11,23 +11,7 @@ Responding to customer emails is an important part of any service. Often emails 
 
 Keywords: natural language processing, email categorization, customer support, supervised learning
 
-## Way to the goal ##
 
-### Introduction ###
-
-Our motivation.
-
-### Methods ###
-
-Read literature, get data, do R and Python (maybe Orange).
-
-### Results ###
-
-Present results.
-
-### Discusion ###
-
-Apply results.
 
 ## Folder structure ##
 
@@ -41,7 +25,7 @@ There are several subfolders in the repository:
 
 ### The source folder ###
 
-All our final codes each presenting different processing stage is available in this folder. Codes are presented in jupyter notebook files and should be opened with jupyter. All of the relevant outputs are saved within the files, but if additional running of the code will be made, make sure to download the excel or csv files with the data. They are available in the same folder. 
+All our final codes each presenting different processing stage is available in this folder. Codes are presented in jupyter notebook files and should be opened with jupyter. All of the relevant outputs of the code are saved within the files, since the data is protected and should not be publicly distributed. 
 
 ### The journal folder ###
 
