@@ -2,7 +2,7 @@
 
 ## About this branch /master ##
 
-This is the final branch, we don't change it except journals. Editing is made in branch (/develop).
+This is the final version of the master branch for the project by team Orca. The general structure remained the same as in the beginning with added files to src/kode subfolder and a final version of a report added to the final_report folder. Editing while working on projects was made in branch (/develop).
 
 
 ## Our project - Automated customer email classification (In516ht with Zavarovalnica Triglav) ##
@@ -41,20 +41,20 @@ There are several subfolders in the repository:
 
 ### The source folder ###
 
-All our source codes and articles should go into this folder. How you structure things (e.g. via subfolders) inside there is completely up to you.
+All our final codes each presenting different processing stage is available in this folder. Codes are presented in jupyter notebook files and should be opened with jupyter. All of the relevant outputs are saved within the files, but if additional running of the code will be made, make sure to download the excel or csv files with the data. They are available in the same folder. 
 
 ### The journal folder ###
 
-With our activities in journals.
+Journals with all of our activities are available here.
 
 ### The interim report folder ###
 
-Final is pulled from develop branch. Due to 4. 3. 2022.
+Our work to the stage of interim report is available here.
 
 ### The final report folder ###
 
-Final is pulled to master branch. Due end of May 2022.
+Our work until the final deadline presented as the final report is available here.
 
 ### The presentation folder ###
 
-Final presentation is upload here. Presentations will be in the first week of June 2022.
+Final presentation will be uploaded once completed.
