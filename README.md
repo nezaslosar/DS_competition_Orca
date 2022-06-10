@@ -37,7 +37,7 @@ Our work to the stage of interim report is available here.
 
 ### The final report folder ###
 
-Our work until the final deadline presented as the final report is available here.
+Our work until the final deadline presented as the final report is available here. Some additional exported tables and confussion matrix are attached here.
 
 ### The presentation folder ###
 
